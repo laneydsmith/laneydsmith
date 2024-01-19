@@ -4,7 +4,6 @@
 ## About Me
 * 👩‍🔬 B.S in Human Sciences graduate from Texas Tech University
 * 👩‍💻 I'm currently working on Data Analysis projects to expand my skillset
-* 👩‍🏫 I'm currently learning R and Python!
 * 📧 Reach me at delaneydalton.smith@gmail.com
 * 💬 Ask me about my former career in medicine and how I found a new passion in working with data
 
