@@ -9,7 +9,7 @@
 
 
 ## Data Projects
-- [**Excel:** Bike Sales](https://github.com/laneydsmith/portfolio_projects/blob/main/Bike_Sales_Excel_Project.xlsx)
+- [**Excel:** Bike Sales with Simple Dashboard](https://github.com/laneydsmith/portfolio_projects/blob/main/Bike_Sales_Excel_Project.xlsx)
 - [**Excel and Tableau:** AirBnB data visualization](https://public.tableau.com/app/profile/delaney.smith8257/viz/AirBnBFullProject_17025044919680/Dashboard1)
 - [**SQL:** 2020-2021 Covid data exploration](https://github.com/laneydsmith/portfolio_projects/blob/main/covid_project_data_exploration_sql)
 - [**Tableau:** 2020-2021 Covid data visualization](https://public.tableau.com/app/profile/delaney.smith8257/viz/2020-2021CovidProjectDashboard/Dashboard1)
