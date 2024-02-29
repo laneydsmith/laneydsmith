@@ -8,6 +8,7 @@
 
 
 ## Data Projects
+- [**SQL and Tableau:** Bellabeat Case Study](https://github.com/laneydsmith/Bellabeat-casestudy)
 - [**Excel:** Bike Sales with Simple Dashboard](https://github.com/laneydsmith/portfolio_projects/blob/main/Bike_Sales_Excel_Project.xlsx)
 - [**Excel and Tableau:** AirBnB data visualization](https://public.tableau.com/app/profile/delaney.smith8257/viz/AirBnBFullProject_17025044919680/Dashboard1)
 - [**SQL:** 2020-2021 Covid data exploration](https://github.com/laneydsmith/portfolio_projects/blob/main/covid_project_data_exploration_sql)
